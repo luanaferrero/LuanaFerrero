@@ -3,7 +3,7 @@ Hi there! ────୨ৎ────
 <img width="1536" height="475" alt="de983cafb3ce8ecfa52ab19f64ca6956" src="https://github.com/user-attachments/assets/3585adef-47ed-462d-b868-ef2477ba2fe8" />
 
 
-estudiante de física enfocada en computación científica, inteligencia artificial y modelado molecular. mi trabajo combina las ciencias exactas con el desarrollo de herramientas computacionales para resolver problemas complejos.
+soy estudiante de física enfocada en computación científica, inteligencia artificial y modelado molecular. mi trabajo combina las ciencias exactas con el desarrollo de herramientas computacionales para resolver problemas complejos.
 
 ---
 
@@ -17,7 +17,7 @@ estudiante de física enfocada en computación científica, inteligencia artific
 
 ### .✦ ݁˖ herramientas y tecnologías
 
-*   **lenguajes y entornos:** python, bash, entornos linux, control de versiones con git y documentación en latex.
+*   **lenguajes y entornos:** python, fortran, latex. 
 *   **computación cuántica y dft:** experiencia en simulación y cálculo de estructura electrónica utilizando quantum espresso y orca.
 *   **inteligencia artificial y datos (python):** manejo de librerías esenciales para el diseño de redes neuronales y análisis numérico, incluyendo pytorch, tensorflow, numpy, scipy, pandas y matplotlib.
 
