@@ -15,7 +15,7 @@ estudiante de física enfocada en computación científica, inteligencia artific
 
 ---
 
-###.✦ ݁˖ herramientas y tecnologías
+### .✦ ݁˖ herramientas y tecnologías
 
 *   **lenguajes y entornos:** python, bash, entornos linux, control de versiones con git y documentación en latex.
 *   **computación cuántica y dft:** experiencia en simulación y cálculo de estructura electrónica utilizando quantum espresso y orca.
