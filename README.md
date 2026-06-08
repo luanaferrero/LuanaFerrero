@@ -40,5 +40,5 @@ fuera del ámbito estrictamente académico y de la programación, me dedico a la
 
 si te interesa colaborar en algún proyecto, tenés dudas sobre simulaciones o simplemente querés conectar, podés encontrarme en:
 
-*   [linkedin]([tu_link_aquí](https://www.linkedin.com/in/luana-sof%C3%ADa-ferrero-25ab26371/))
+*   [linkedin]((https://www.linkedin.com/in/luana-sof%C3%ADa-ferrero-25ab26371/))
 *   [correo electrónico](ferreroluana@gmail.com)
