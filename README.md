@@ -1,5 +1,8 @@
 Hi there! ────୨ৎ────
 
+<img width="1536" height="475" alt="de983cafb3ce8ecfa52ab19f64ca6956" src="https://github.com/user-attachments/assets/3585adef-47ed-462d-b868-ef2477ba2fe8" />
+
+
 estudiante de física enfocada en computación científica, inteligencia artificial y modelado molecular. mi trabajo combina las ciencias exactas con el desarrollo de herramientas computacionales para resolver problemas complejos.
 
 ---
@@ -40,5 +43,14 @@ fuera del ámbito estrictamente académico y de la programación, me dedico a la
 
 si te interesa colaborar en algún proyecto, tenés dudas sobre simulaciones o simplemente querés conectar, podés encontrarme en:
 
-*   [linkedin](https://www.linkedin.com/in/luana-sof%C3%ADa-ferrero-25ab26371/)
-*   [correo electrónico](ferreroluana@gmail.com)
+*   [linkedin](tu_link_aquí)
+*   [correo electrónico](tu_email_aquí)
+
+---
+
+### estadísticas
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario_aquí&show_icons=true&theme=neutral&hide_border=true" alt="estadísticas de github" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario_aquí&layout=compact&theme=neutral&hide_border=true" alt="lenguajes más usados" height="150" />
+</p>
