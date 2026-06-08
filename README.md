@@ -46,11 +46,5 @@ si te interesa colaborar en algún proyecto, tenés dudas sobre simulaciones o s
 *   [linkedin](tu_link_aquí)
 *   [correo electrónico](tu_email_aquí)
 
----
-### estadísticas
-
-![estadísticas de github](https://github-readme-stats.vercel.app/api?username=luanaferrero&show_icons=true&theme=neutral&hide_border=true)
-
-![lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=luanaferrero&layout=compact&theme=neutral&hide_border=true)
 
 
