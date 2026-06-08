@@ -7,7 +7,7 @@ estudiante de física enfocada en computación científica, inteligencia artific
 
 ---
 
-### áreas de interés
+### ⋆ áreas de interés
 
 *   **inteligencia artificial y neurociencia computacional:** modelado de sistemas biológicos y desarrollo de redes neuronales artificiales.
 *   **simulación de materiales:** cálculos de estructura electrónica mediante teoría de la funcional de la densidad (dft).
@@ -15,7 +15,7 @@ estudiante de física enfocada en computación científica, inteligencia artific
 
 ---
 
-### herramientas y tecnologías
+###.✦ ݁˖ herramientas y tecnologías
 
 *   **lenguajes y entornos:** python, bash, entornos linux, control de versiones con git y documentación en latex.
 *   **computación cuántica y dft:** experiencia en simulación y cálculo de estructura electrónica utilizando quantum espresso y orca.
@@ -23,7 +23,7 @@ estudiante de física enfocada en computación científica, inteligencia artific
 
 ---
 
-### proyectos actuales y objetivos
+### ⋆ proyectos actuales y objetivos
 
 actualmente me encuentro profundizando en el desarrollo de aplicaciones basadas en inteligencia artificial y la implementación de modelos avanzados de redes neuronales. mis principales metas técnicas incluyen:
 
@@ -33,13 +33,13 @@ actualmente me encuentro profundizando en el desarrollo de aplicaciones basadas 
 
 ---
 
-### otras actividades
+### .✦ ݁˖ otras actividades
 
 fuera del ámbito estrictamente académico y de la programación, me dedico a la fotografía, explorando la composición visual y la edición digital. además, me desempeño como tutora particular, dictando clases de física y matemática para nivel secundario y universitario.
 
 ---
 
-### contacto
+### ⋆ contacto
 
 si te interesa colaborar en algún proyecto, tenés dudas sobre simulaciones o simplemente querés conectar, podés encontrarme en:
 
@@ -47,10 +47,10 @@ si te interesa colaborar en algún proyecto, tenés dudas sobre simulaciones o s
 *   [correo electrónico](tu_email_aquí)
 
 ---
-
 ### estadísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario_aquí&show_icons=true&theme=neutral&hide_border=true" alt="estadísticas de github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario_aquí&layout=compact&theme=neutral&hide_border=true" alt="lenguajes más usados" height="150" />
-</p>
+![estadísticas de github](https://github-readme-stats.vercel.app/api?username=luanaferrero&show_icons=true&theme=neutral&hide_border=true)
+
+![lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=luanaferrero&layout=compact&theme=neutral&hide_border=true)
+
+
